@@ -8,14 +8,13 @@ To use the script, simply clone this repository and run the `simple_interest.py`
 
 ### Example
 
-```python
+
 principal = 1000  # Principal amount in currency units
 rate = 5          # Interest rate in percentage
 time = 2          # Time in years
 
 interest = calculate_simple_interest(principal, rate, time)
-print(f"Simple Interest: {interest}")
-
+print(f"Simple Interest: {interest}") 
 
 # simple-interest-calculator
 simple-interest-calculator for a micro-finance startup
