@@ -1,3 +1,22 @@
+# Simple Interest Calculator
+
+This repository contains a simple Python script to calculate simple interest, a basic financial operation commonly used in micro-finance. This script is part of a micro-finance startup's initiative to empower and provide opportunities for low-income individuals.
+
+## Usage
+
+To use the script, simply clone this repository and run the `simple_interest.py` file. The script will calculate the simple interest based on the provided principal, rate, and time.
+
+### Example
+
+```python
+principal = 1000  # Principal amount in currency units
+rate = 5          # Interest rate in percentage
+time = 2          # Time in years
+
+interest = calculate_simple_interest(principal, rate, time)
+print(f"Simple Interest: {interest}")
+
+
 # simple-interest-calculator
 simple-interest-calculator for a micro-finance startup
 ## Project Description
